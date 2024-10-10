@@ -16,6 +16,8 @@ Dashboard:
 
 ## Update: 10/10/2024
 
+<img width="1601" alt="Screenshot_1" src="https://github.com/user-attachments/assets/37f4b5b4-516b-4113-81f5-45d2140f062e">
+
 Data Analysis: Real Estate Investment and Development
 
 I’m beginning a project to identify and predict long-term real estate behavior based on economic, demographic, and psychographic data to define better practices for real estate investment and development.
