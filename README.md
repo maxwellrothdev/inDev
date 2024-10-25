@@ -22,27 +22,14 @@ Data Analysis: Real Estate Investment and Development
 
 I’m beginning a project to identify and predict long-term real estate behavior based on economic, demographic, and psychographic data to define better practices for real estate investment and development.
 
-Over the coming weeks, my updates will likely follow my general process for data analysis . . .
+Over the coming weeks, my updates will likely follow the typical ETL process.
 
-Data Analysis Process
+Data Analysis / ETL Process
 
-1. Concept and Planning
-- Identify questions to be answered and problems to be solved.
-- Determine metrics used to successfully answer these questions.
-- Source where to obtain the necessary data.
-- Concept Entity Relationship Diagram (ERD) and database schema.
-- Concept dashboard UI.
-2. Data Collection and Cleaning
-- Collect data from sources (e.g., databases, APIs).
-- Assess data quality.
-- Clean data.
-- Transform data into format for analysis.
-3. Data Exploration and Analysis
-- Explore data.
-- Identify patterns and trends.
-- Perform analysis.
-4. Data Visualization and Dashboard
-- Choose best visualization types.
-- Create visualizations and sheets.
-- Create and customize dashboard.
-- Deploy dashboard for client use.
+Extract: Gather the necessary data from sources (e.g., files, databases, APIs).
+
+Transform: Assess, clean, and format the data.
+
+Load: Create an Entity Relationship Diagram (ERD) / database schema and aggregate the transformed data into a database or warehouse for analysis and reporting.
+
+For the analysis and reporting of metrics and trends, I’ll create visualizations and deploy a dashboard using Tableau.
